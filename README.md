@@ -40,7 +40,7 @@ Includes a form for players to input their names before starting the game.
   Displays the circular pattern area and various shapes (quarter-circle, half-circle, three-quarter-circle) in colors yellow, purple, and blue.
   Contains the game UI elements like timers and pattern areas.
 
-#public/game.js
+# public/game.js
 
   Implements the game logic using modular and functional programming.
   Contains separate functions for different tasks and components such as:
@@ -50,8 +50,9 @@ Includes a form for players to input their names before starting the game.
   updatePatternArea(): Maintains and updates the pattern area.
   
 # How to Play
-Open the home.html page in a web browser.
-Enter your player name in the form and submit.
-The game will redirect to index.html, where the game UI is displayed.
-Follow the game instructions to replicate the given patterns using the provided shapes within the time limit.
-The game determines the winner based on the winner of alteast 2 rounds in total of 3 rounds .
+
+  Open the home.html page in a web browser.
+  Enter your player name in the form and submit.
+  The game will redirect to index.html, where the game UI is displayed.
+  Follow the game instructions to replicate the given patterns using the provided shapes within the time limit.
+  The game determines the winner based on the winner of alteast 2 rounds in total of 3 rounds .
